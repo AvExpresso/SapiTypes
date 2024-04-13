@@ -1,5 +1,5 @@
 
-package com.avsemprize.sapitypes;
+package com.avsemprize.spapitypes;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
@@ -7,17 +7,17 @@ import com.google.gson.annotations.SerializedName;
 import javax.annotation.Generated;
 
 @Generated("jsonschema2pojo")
-public class Identifiers__1 {
+public class Identifiers {
 
     @SerializedName("MarketplaceASIN")
     @Expose
-    private MarketplaceASIN__1 marketplaceASIN;
+    private MarketplaceASIN marketplaceASIN;
 
-    public MarketplaceASIN__1 getMarketplaceASIN() {
+    public MarketplaceASIN getMarketplaceASIN() {
         return marketplaceASIN;
     }
 
-    public void setMarketplaceASIN(MarketplaceASIN__1 marketplaceASIN) {
+    public void setMarketplaceASIN(MarketplaceASIN marketplaceASIN) {
         this.marketplaceASIN = marketplaceASIN;
     }
 

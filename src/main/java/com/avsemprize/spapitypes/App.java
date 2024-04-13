@@ -1,4 +1,4 @@
-package com.avsemprize.sapitypes.sapitypes;
+package com.avsemprize.spapitypes;
 
 /**
  * Hello world!

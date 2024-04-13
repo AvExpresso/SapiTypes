@@ -1,5 +1,5 @@
 
-package com.avsemprize.sapitypes;
+package com.avsemprize.spapitypes;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

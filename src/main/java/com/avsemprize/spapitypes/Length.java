@@ -1,5 +1,5 @@
 
-package com.avsemprize.sapitypes;
+package com.avsemprize.spapitypes;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
@@ -7,7 +7,7 @@ import com.google.gson.annotations.SerializedName;
 import javax.annotation.Generated;
 
 @Generated("jsonschema2pojo")
-public class Height {
+public class Length {
 
     @SerializedName("value")
     @Expose

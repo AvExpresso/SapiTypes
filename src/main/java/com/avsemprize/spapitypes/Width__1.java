@@ -1,5 +1,5 @@
 
-package com.avsemprize.sapitypes;
+package com.avsemprize.spapitypes;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
@@ -7,20 +7,20 @@ import com.google.gson.annotations.SerializedName;
 import javax.annotation.Generated;
 
 @Generated("jsonschema2pojo")
-public class Length {
+public class Width__1 {
 
     @SerializedName("value")
     @Expose
-    private Double value;
+    private Integer value;
     @SerializedName("Units")
     @Expose
     private String units;
 
-    public Double getValue() {
+    public Integer getValue() {
         return value;
     }
 
-    public void setValue(Double value) {
+    public void setValue(Integer value) {
         this.value = value;
     }
 

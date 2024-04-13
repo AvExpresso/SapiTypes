@@ -1,5 +1,5 @@
 
-package com.avsemprize.sapitypes;
+package com.avsemprize.spapitypes;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;
@@ -8,7 +8,7 @@ import javax.annotation.Generated;
 import java.util.List;
 
 @Generated("jsonschema2pojo")
-public class SapiCatalogItem {
+public class SpapiCatalogItem {
 
     @SerializedName("Identifiers")
     @Expose
